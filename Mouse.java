@@ -86,7 +86,7 @@
  */
 
 import java.util.ArrayList;
-public class Mouse implements MouseInterface
+public class Mouse implements AnimalInterface
 {
 	int positionOfMouseWidth = 0;
 	int positionOfMouseHeight = 0;
